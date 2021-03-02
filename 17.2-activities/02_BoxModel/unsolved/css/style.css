@@ -1,0 +1,22 @@
+
+.header {
+    height: 250px;
+    max-height:500px;
+    background-image:url(../image/);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
+
+#pagetop{text-align:center;
+
+}
+
+.colorContainer{
+    display:inline-block;
+    Margin:15px;
+}
+.swatch{
+    height:200px;
+    width:170px;
+    border:1px solid }
