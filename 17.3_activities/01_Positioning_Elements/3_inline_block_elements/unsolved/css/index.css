@@ -2,9 +2,20 @@ nav {
   height: 50px;
   background-color: lightgrey;
 }
+.inline-block{
+  padding:15px;
+  display:inline-block;
+}
 
-/* target the class of inline-block below */
-
-/* target the class of .left below */
-
-/* target the class of .right below */
+.left{
+  height:500px;
+  float:left;
+  width: 30%;
+  background-color: blueviolet;
+}
+.right{
+  height:500px;
+  float: left;
+  width:30%;
+  background-color: darkseagreen;
+}

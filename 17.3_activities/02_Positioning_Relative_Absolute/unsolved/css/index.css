@@ -15,17 +15,22 @@ body {
   padding: 30px;
   margin: 10px;
   display: flex;
+  position: relative;
 }
 .absolute {
-  height: 150px;
-  width: 150px;
+  height: 20x;
+  width: 20px;
   background-color: red;
   color: white;
-
+position:absolute;
+top:50px;
+left:35px;
+border: radius 100px;
 }
 .fixed {
   height: 200px;
   width: 200px;
   background-color: green;
-
+botton:0px;
+right:0px;
 }
